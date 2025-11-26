@@ -1,6 +1,6 @@
 Tema 1: Presentación del módulo
 
-Tema 2: Herramientas básicas de trabajo - versión desde edicion-main
+Tema 2: Herramientas básicas de trabajo - versión combinada de ambas ramas
 
 Tema 3: Control de versiones
 
